@@ -15,7 +15,7 @@
 > Python/40
 
 ## Link to product walkthrough
-[link to video]
+> https://www.loom.com/share/1d65e111c04f4251bfd7908a4516bc65
 
 ## How it Works ?
 > 1. first you make a folder in your computer.
