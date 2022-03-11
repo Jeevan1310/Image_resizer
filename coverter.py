@@ -99,6 +99,7 @@ def script():
     elif main=='3':
         print("Help is here")
         print("use this resizer wisely")
+        print(" You can read me in our github repositry its link is (https://github.com/Jeevan1310/Image_resizer)")
     else:
         print("Not matched to any options")
     restart =input("Would you like to continue ")
